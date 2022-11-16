@@ -1,0 +1,68 @@
+.menu {
+    display: block;
+    margin-left: 900px;
+    font-style: normal;
+
+}
+
+li {
+    float: left;
+    padding: 12px;
+    list-style: none;
+    
+}
+
+h3 {
+    padding-left: 420px;
+    padding-top: 20px;
+    
+}
+
+p {
+    padding-left: 540px;
+}
+
+.btn {
+    margin: center;
+    margin-left: 630px;
+    text-emphasis-color: ;
+    
+}
+
+.clr {
+   background-image: url(teacher.jpeg);
+   color: ;
+}
+
+.vice {
+    margin: 600px;
+}
+
+.overlay{
+    color: white;
+    background-color: rgba(94, 175, 202,0.6);
+}
+
+.slide {
+   display: flex;
+    flex-direction: row;
+    width: 100%;
+   
+
+}
+
+.slide div {
+    background-color: #c3c4c4;
+    width: 370px;
+    height: 65px;
+    border-color: #c3c4c4;
+    margin: 10px;
+    flex-grow: 1;
+}
+
+.header {
+    flex-direction: row;
+    display: flex;
+}
+
+
